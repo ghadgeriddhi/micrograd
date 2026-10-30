@@ -1,5 +1,5 @@
 
-# micrograd
+# micrograd - Neural network learning project
 
 ![awww](puppy.jpg)
 
